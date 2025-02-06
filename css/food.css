@@ -38,3 +38,8 @@ body {
     border-radius: 12px;
     border: 2px solid #ffe3e1;
   }
+  .button:hover {
+    background-color:#587035;
+    color: #ffe3e1;
+    border: 2px solid #8fb752;
+  }
